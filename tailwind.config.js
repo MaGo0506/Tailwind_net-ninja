@@ -10,6 +10,9 @@ module.exports = {
           100: '#e2e2d5',
           200: '#888883'
         }
+      },
+      fontFamily: {
+        nunito: ['Nunito']
       }
     },
   },
